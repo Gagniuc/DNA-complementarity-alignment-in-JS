@@ -1,5 +1,5 @@
 # DNA complementarity alignment in JS
-This implementation makes a complementarity alignment, namely it detects where two strands of DNA are complementary.
+This implementation makes a complementarity alignment, namely it detects where two strands of DNA are complementary. This simple implementation is the core of the application found here: https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-normal
 
 # Live demo
 https://gagniuc.github.io/DNA-complementarity-alignment-in-JS/

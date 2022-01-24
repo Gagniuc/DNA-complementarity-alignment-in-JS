@@ -6,7 +6,7 @@ https://gagniuc.github.io/DNA-complementarity-alignment-in-JS/
 
 # Screenshot
 
-![screenshot](https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complementarity%20alignment%20in%20JS.PNG)
+![screenshot](https://github.com/Gagniuc/DNA-complementarity-alignment-in-JS/blob/main/DNA%20complement.png?raw=true)
 
 # References
 
